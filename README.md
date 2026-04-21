@@ -16,3 +16,9 @@ Linux Day 4 se shuru hui meri journey.
 
 ---
 **Created by:** Roshan Zade | Linux Day 4
+### 📅 Day 4: Git + GitHub + .gitignore
+- EC2 pe Git install kiya
+- GitHub repo banaya aur pehla push kiya
+- `upstream is gone` error solve kiya khud se
+- README.md aur .gitignore banaya
+- L6 feeling aa gayi 💪
